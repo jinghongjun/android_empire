@@ -1,0 +1,24 @@
+# git
+#.gitignore
+
+local.properties
+
+# grandle
+build/
+.gradle/
+.idea/
+*.iml
+*.properties
+*.apk
+gradle/
+gradlew
+gradlew.bat
+.DS_Store
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# sh
+check-branch.sh

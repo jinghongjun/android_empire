@@ -1,0 +1,9 @@
+//集成PING++支付第三方库
+include ':library:payment:ping:bdwallet_pay_sdk'
+include ':library:payment:ping:pingpp'
+
+//集成网络访问volley
+include ':library:network:volley'
+
+include ':base:base_library'
+include ':main:app'
